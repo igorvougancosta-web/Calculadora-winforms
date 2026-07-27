@@ -1,13 +1,14 @@
+
 Calculadora WinForms
 
-Primeira vers„o de uma calculadora desenvolvida em C# utilizando Windows Forms.
+Primeira vers√£o de uma calculadora desenvolvida em C# utilizando Windows Forms.
 
 Funcionalidades
 
 - Soma
-- SubtraÁ„o
-- MultiplicaÁ„o
-- Divis„o
+- Subtra√ß√£o
+- Multiplica√ß√£o
+- Divis√£o
 
 Tecnologias
 
@@ -18,5 +19,6 @@ Tecnologias
 
 Imagem do Projeto: 
 
+<img width="452" height="536" alt="Calculadora" src="https://github.com/user-attachments/assets/acf5ddaf-ca70-4def-854c-2be63be780e5" />
 
-![Calculadora](Imagens/Calculadora.png)
+
